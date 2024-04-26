@@ -8,7 +8,7 @@ import SendPage from '../../pages/SendPage';
 import WalletPage from "../../pages/WalletPage";
 import RequestPage from "../../pages/RequestPage";
 import './App.css'
-import Popup from "./LinkcardPopup/LinkcardPopup";
+import Popup from "../LinkcardPopup/LinkcardPopup";
 
 class App extends Component{
 	render(){
